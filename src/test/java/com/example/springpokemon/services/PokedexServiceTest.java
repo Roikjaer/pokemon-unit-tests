@@ -61,4 +61,5 @@ class PokedexServiceTest {
         //Assert
         assertEquals("Balanced", result);
     }
+
 }

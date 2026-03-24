@@ -1,0 +1,9 @@
+/Users/maltheroikjaer/IdeaProjects/pokemon-unit-tests/src/main/java/com/example/springpokemon/SpringPokemonApplication.java
+/Users/maltheroikjaer/IdeaProjects/pokemon-unit-tests/src/main/java/com/example/springpokemon/controllers/PokedexController.java
+/Users/maltheroikjaer/IdeaProjects/pokemon-unit-tests/src/main/java/com/example/springpokemon/exceptionhandling/GlobalExceptionHandler.java
+/Users/maltheroikjaer/IdeaProjects/pokemon-unit-tests/src/main/java/com/example/springpokemon/models/Pokemon.java
+/Users/maltheroikjaer/IdeaProjects/pokemon-unit-tests/src/main/java/com/example/springpokemon/repositories/IPokedexRepository.java
+/Users/maltheroikjaer/IdeaProjects/pokemon-unit-tests/src/main/java/com/example/springpokemon/repositories/PokedexRepository.java
+/Users/maltheroikjaer/IdeaProjects/pokemon-unit-tests/src/main/java/com/example/springpokemon/services/BattleService.java
+/Users/maltheroikjaer/IdeaProjects/pokemon-unit-tests/src/main/java/com/example/springpokemon/services/PokedexService.java
+/Users/maltheroikjaer/IdeaProjects/pokemon-unit-tests/src/main/java/com/example/springpokemon/utility/ConnectionManager.java
